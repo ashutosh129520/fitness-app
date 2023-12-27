@@ -22,7 +22,8 @@ const HomeScreen = () => {
           width: "100%",
         }}
       >
-        <Text style={{ color: "white", fontWeight: "bold", fontSize: 18 }}>
+        <Text style={{ color: "white", fontWeight: "bold", fontSize: 18,
+      marginTop: 10 }}>
           HOME WORKOUT
         </Text>
 
